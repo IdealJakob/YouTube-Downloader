@@ -1,6 +1,7 @@
 import pytube
 from pytube import YouTube
 print('You have to restart everytime you want to download a Video!')
+print('It has to be a YouTube-Video!')
 
 # Get Video URL and get Video from YouTube
 video_url = input('Video URL: ')
