@@ -7,7 +7,7 @@ video_url = input('Video URL: ')
 youtube = pytube.YouTube(video_url)
 # selects highest resolution of the video to download
 video = youtube.streams.get_highest_resolution()
-#download video
+# Download video
 video.download()
 print('Download Finished')
 print('You will find the downloaded in the same folder as the .exe or .py')
