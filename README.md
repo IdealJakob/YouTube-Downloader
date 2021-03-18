@@ -1,4 +1,7 @@
 **What to do to get this script running**
+##
+
+It should work by only downloading [YouTube_Downloader.exe](https://github.com/IdealJakob/YouTube-Downloader/raw/main/YouTube_Downloader.exe) and running it, but if not do the things below
 
 ##
 
