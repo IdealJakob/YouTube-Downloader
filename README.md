@@ -10,5 +10,5 @@
 
 ##
 
-If you want to read the script, open [YouTube_Downloader.py](https://github.com/IdealJakob/YouTube-Downloader/blob/5169b21fdf4497bfb627d74c119fe82bc57096f3/YouTube_Downloader.py)
+If you want to read the script, open [YouTube_Downloader.py](https://github.com/IdealJakob/YouTube-Downloader/blob/5169b21fdf4497bfb627d74c119fe82bc57096f3/YouTube_Downloader.py)  
 There may be a webpage with a YouTube downloader in the future.
